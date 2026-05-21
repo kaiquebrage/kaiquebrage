@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Kaique Bragé
 
-<!--
-**kaiquebrage/kaiquebrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Full Stack em formação | Apaixonado por tecnologia
 
-Here are some ideas to get you started:
+💻 Construindo projetos Front-End modernos  
+📚 Pós-graduando em Desenvolvimento Full Stack  
+🎯 Foco atual: HTML | CSS | JavaScript | UI/UX  
+📈 Aprendendo continuamente e desenvolvendo projetos reais  
+📍 Rio de Janeiro - RJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tecnologias
+
+### 🎨 Front-End
+HTML5 • CSS3 • JavaScript
+
+### 🧠 Estudando atualmente
+React • TypeScript • Java • Git/GitHub
+
+### 🛠️ Ferramentas
+VS Code • Figma • GitHub
+
+---
+
+## 🚀 Objetivo
+
+Criar interfaces modernas, intuitivas e funcionais enquanto evoluo na área de desenvolvimento web e tecnologia.
