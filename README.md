@@ -54,10 +54,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquebrage&
 
 # 🚀 Projetos em destaque
 
-🔹 DevStart Academy — Plataforma de cursos digitais  
-🔹 Apple Landing Page — Página moderna inspirada na Apple  
-🔹 Dashboard do Aluno — Simulação de painel de estudante  
-🔹 Projetos Front-End responsivos com HTML, CSS e JavaScript
+🔹 Pós em Dev. Full Stack — Descomplica 2026
+🔹  React Front-End — Santander Bootcamp 2026
+🔹 Desenvolvimento Web — Udemy 2026
+🔹 Marketing digital — Descomplica 2025
 
 ---
 
