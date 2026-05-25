@@ -4,7 +4,7 @@
 
 💻 Construindo projetos Front-End modernos  
 📚 Pós-graduando em Desenvolvimento Full Stack  
-🎯 Foco atual: HTML • CSS • JavaScript • UI/UX • Dados 
+🎯 Foco atual: HTML • CSS • JavaScript • UI/ • Dados<br>
 📈 Aprendizado contínuo através de projetos práticos  
 📍 Rio de Janeiro - RJ
 
