@@ -35,9 +35,9 @@
 
 # 🚀 Formação em destaque
 
-🔹 Pós em Dev. Full Stack — Descomplica 2026
-🔹 React Front-End — Santander Bootcamp 2026
-🔹 Desenvolvimento Web — Udemy 2026
+🔹 Pós em Dev. Full Stack — Descomplica 2026 <br>
+🔹 React Front-End — Santander Bootcamp 2026 <br>
+🔹 Desenvolvimento Web — Udemy 2026 <br>
 🔹 Marketing digital — Descomplica 2025
 
 ---
